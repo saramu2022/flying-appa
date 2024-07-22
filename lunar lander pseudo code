@@ -1,0 +1,33 @@
+Needs to have this:
+*intro screen with game explanation
+*object has to have gravity and buoyancy
+*win and lose
+
+Screens:
+*intro screen
+*game screen
+*game over screen
+>>USE THE EXAMPLE CODE!!!
+
+variables i need:
+*buoyancy
+*gravity
+*introScreen
+*gameScreen
+*gameoverScreen
+
+
+welcome screen
+object is a box for the beginning
+press space to start game: if space is pressed, game screen
+
+
+
+boni for later (put them at the bottom, when you wrote some more stuff down!!):
+*game comments
+*2d animation
+*appa stylisation
+*background with sky and mountains
+*animated water
+*appa's ability to land on islands to win the game (needs 2d animation!!)
+*auto adapts to screen width (screenWidth, screenHeight)
